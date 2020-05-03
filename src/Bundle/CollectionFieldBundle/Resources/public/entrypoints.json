@@ -1,0 +1,12 @@
+{
+  "entrypoints": {
+    "main": {
+      "css": [
+        "/bundles/unitecmscollectionfield/main.86526b41.css"
+      ],
+      "js": [
+        "/bundles/unitecmscollectionfield/main.5305a593.js"
+      ]
+    }
+  }
+}
